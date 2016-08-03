@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/relatorios/clientesFisicos.jrxml=UTF-8
+encoding//src/main/webapp/relatorios/clientesJuridicos.jrxml=UTF-8
+encoding//src/main/webapp/relatorios/funcionarios.jrxml=UTF-8
+encoding//src/main/webapp/relatorios/locacaoMaquina.jrxml=UTF-8
+encoding//src/main/webapp/relatorios/maquinas.jrxml=UTF-8
+encoding//src/main/webapp/relatorios/motoristas.jrxml=UTF-8
+encoding//src/main/webapp/relatorios/ordemServico.jrxml=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
